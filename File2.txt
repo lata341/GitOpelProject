@@ -3,6 +3,11 @@ for updating add item
 
 
 
+
 Change --the file to check push to remote server
 
 change -made by team mate on remote serrver 
+
+change 1 -->>the file to check push to remote server
+ change 2-at local master
+change 3 -> made by team mate
