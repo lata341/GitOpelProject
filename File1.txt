@@ -1,6 +1,9 @@
 hello World!!!!
 
 Welcome to git....
-change for feature - login
+change for feature -> login
 
+change for feature -> logout
 change to fix bug1
+
+change to fix bug2
